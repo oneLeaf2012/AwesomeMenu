@@ -73,3 +73,5 @@ Thanks for [acoomans](https://github.com/acoomans/QuadCurveMenu) for the options
 
 
 ![screenshots](http://k.minus.com/ib1kHc4lnLB8bd.gif) ![screenshots](http://k.minus.com/iovTFVTQQ192K.gif) ![screenshots](http://k.minus.com/i4BrO2tfCJxzk.gif)
+
+这是一个圈的点击
